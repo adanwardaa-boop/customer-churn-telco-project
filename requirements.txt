@@ -1,0 +1,18 @@
+# Fundamental packages for data analysis
+numpy==1.26.4
+pandas==2.2.0
+
+# Data visualization
+matplotlib==3.8.2
+seaborn==0.13.2
+
+# Machine learning
+scikit-learn==1.4.0
+xgboost==2.0.3
+
+# Explainable AI / Model explanation
+shap==0.44.0
+lime==0.2.0.1
+
+# Utility for saving/loading models
+joblib==1.3.2
